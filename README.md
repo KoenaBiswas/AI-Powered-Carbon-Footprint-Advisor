@@ -62,16 +62,21 @@ The total footprint is the sum of emissions from all selected categories.
 ---
 
 ## 🚀 How to Run the Project
+
 1. Clone the repository:
-   ```bash
    git clone https://github.com/USERNAME/ai-carbon-footprint-calculator.git
-Navigate to the project directory: cd ai-carbon-footprint-calculator
 
-Install required dependencies (if any): pip install -r requirements.txt
+2. Navigate to the project directory:
+   cd ai-carbon-footprint-calculator
 
-Run the Python file: python main.py
+3. Install required dependencies (if any):
+   pip install -r requirements.txt
 
-Enter your lifestyle details when prompted.
+4. Run the Python file:
+   python main.py
+
+5. Enter your lifestyle details when prompted in the terminal.
+
 
 🌍 Real-World Applications
 Environmental awareness tools
