@@ -64,7 +64,7 @@ The total footprint is the sum of emissions from all selected categories.
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/USERNAME/ai-carbon-footprint-calculator.git
+   git clone https://github.com/KoenaBiswas/ai-carbon-footprint-calculator.git
 
 2. Navigate to the project directory:
    **cd ai-carbon-footprint-calculator**
