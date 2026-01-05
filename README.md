@@ -73,7 +73,7 @@ The total footprint is the sum of emissions from all selected categories.
    **pip install -r requirements.txt**
 
 4. Run the Python file:
-   **python main.py**
+   **streamlit run app.py**
 
 5. Enter your lifestyle details when prompted in the terminal.
 
